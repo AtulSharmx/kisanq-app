@@ -1,7 +1,7 @@
-# KisanQ — Android app
+# KisanQ: Android app
 
-Public download for the KisanQ farmer app. **This repository holds the APK and nothing else** —
-no source code, no configuration, no data. The project source is private.
+Public download for the KisanQ farmer app. **This repository holds the APK and nothing else.**
+No source code, no configuration, no data. The project source is private.
 
 ## Install
 
@@ -19,7 +19,7 @@ A working prototype of a mandi procurement queue: a farmer books a slot, follows
 the queue, and sees the weighing and quality figures recorded at the counter as they are
 recorded.
 
-**Never enter a real Aadhaar number.** Identity verification in this build is a demonstration —
+**Never enter a real Aadhaar number.** Identity verification in this build is a demonstration:
 any twelve digits work. Payments are simulated: stages advance, but no money moves and no bank
 or payment system is connected.
 
